@@ -1,0 +1,5 @@
+<launch>
+  <node name="omxplayer" pkg="iturtle_omxplayer" type="iturtle_omxplayer" args="--test" respawn="true" respawn_delay="10" output="screen">
+    <param name="sound_output" value="local" type="str" />
+  </node>
+</launch>
