@@ -1,0 +1,6 @@
+<launch>
+  <node name="facedetect" pkg="iturtle_facedetect" type="facedetect.py" output="screen"/>
+  <node name="facedetect_listener" pkg="iturtle_facedetect" type="facedetect_listener.py" output="screen">
+    <param name="hello" value="hello.m4a" />
+  </node>
+</launch>
