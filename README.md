@@ -10,7 +10,7 @@ OROCA 네이버 카페의 지역모임인 오로카 판교지역모임의 미니
 ## Contributors
 - 최규남 / robertchoi / Leader
 - 크리스천 / christian / Designer / christian.piponides@gmail.com
-- 하지현 / Hardware / 
+- 하지현 / Hardware -> Software / dldudvy777@gmail.com
 - 설윤호 / 단국대 기계 Hardware / syh9594@gmail.com
 - 김세진 / programmer / dev.napier@gmail.com
 - 이창주 / programmer / rookiecj@gmail.com
