@@ -1,0 +1,3 @@
+<launch>
+  <node name="facerecog" pkg="iturtle_facerecog" type="facerecog.py" output="screen"/>
+</launch>
