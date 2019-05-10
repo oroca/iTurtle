@@ -1,0 +1,11 @@
+<launch>
+  
+  <arg name="label" default="changju" /> 
+  <node name="facerecog_train" pkg="iturtle_facerecog" type="facerecog_train.py" 
+    args="--test" 
+    output="screen">  
+     <!--that these parameters are inside the node element (since they're before the </node> at the end), 
+     so they will be private parameters.  -->
+    <param name="label" value="$(arg label)" />
+  </node>
+</launch>
